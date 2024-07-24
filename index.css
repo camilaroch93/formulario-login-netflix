@@ -7,6 +7,8 @@
     font-family: "Didact Gothic", sans-serif;
 }
 
+
+
 h1{
 
 }
@@ -21,4 +23,15 @@ form label{
     font-size: 12px;
     font-weight: bold;
     margin-bottom: 6px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    background-image:none;
+    opacity: 0.5;
+}
+
+title{
+    i
 }
